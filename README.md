@@ -71,7 +71,8 @@ void yyerror(const char *msg) {
 
 ```
 # Output
-<img width="481" height="341" alt="image" src="https://github.com/user-attachments/assets/26a603da-6cce-4bd4-9a27-f8af40ac3582" />
+<img width="494" height="329" alt="image" src="https://github.com/user-attachments/assets/d515ec06-f1dd-471a-b6c5-4197158e9090" />
+
 
 
 # Result
